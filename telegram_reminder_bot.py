@@ -6,8 +6,8 @@ from datetime import datetime
 from telegram import Bot
 from telegram.constants import ParseMode
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
-CHAT_ID   = os.environ.get("CHAT_ID")
+BOT_TOKEN = os.environ.get("8666695458:AAFg2I0Anm9mTrAY1DVrTKzk6W96uBi9xO0")
+CHAT_ID   = os.environ.get("8713158763")
 
 MISI = [
     "📚 Baca buku / artikel selama 30 menit",
